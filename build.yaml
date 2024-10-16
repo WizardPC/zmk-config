@@ -5,7 +5,7 @@
 # pass flags to the build command and `artifact-name` to assign a name to
 # distinguish build outputs from each other:
 #
-board: [ "sick_84" ]
+board: [ "rpi_pico" ]
 shield: [ "sick_84" ]
 # include:
 #   - board: bdn9_rev2
