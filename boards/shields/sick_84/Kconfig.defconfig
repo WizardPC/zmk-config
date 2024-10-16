@@ -1,0 +1,6 @@
+if SHIELD_SICK_84
+
+config ZMK_KEYBOARD_NAME
+    default "SiCK-84"
+
+endif # SHIELD_SICK_84

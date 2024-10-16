@@ -1,0 +1,2 @@
+config SHIELD_SICK_84
+    def_bool $(shields_list_contains,sick_84)
