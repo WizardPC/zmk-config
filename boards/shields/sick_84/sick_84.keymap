@@ -25,6 +25,7 @@
                 &kp CAPS &kp FR_Q &kp FR_S &kp FR_D &kp FR_F &kp FR_G &kp FR_H &kp FR_J &kp FR_K &kp FR_L &kp FR_M &kp FR_U_GRAVE &kp FR_ASTRK &kp ENTER &kp PG_DN 
                 &kp LSHFT &kp FR_LT &kp FR_W &kp FR_X &kp FR_C &kp FR_V &kp FR_B &kp FR_N &kp FR_COMMA &kp FR_SEMI &kp FR_COLON &kp FR_EXCL &kp RSHFT &kp UP &kp DEL
                 &kp LCTRL &kp LGUI &kp LALT &kp SPACE &kp RALT &kp GLOBE &kp LEFT &kp DOWN &kp RIGHT
+                &studio_unlock
             >;
         };
         // raise_layer { // Layer 1
