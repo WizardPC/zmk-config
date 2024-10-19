@@ -8,7 +8,7 @@ type: shield
 requires: [pro_micro]
 
 # Set this to a URL that documents the keyboard.
-url: https://example.com
+url: https://www.printables.com/model/735667-iso-75-tastatur-sick-84-mechanical-keyboard
 
 # Add any features your keyboard supports here.
 # See https://zmk.dev/docs/development/hardware-metadata-files#features.
