@@ -112,7 +112,7 @@
             , <&key_physical_attrs 100 100  1050  200       0     0     0> // p
             , <&key_physical_attrs 100 100  1150  200       0     0     0> // ^
             , <&key_physical_attrs 100 100  1250  200       0     0     0> // $
-            , <&key_physical_attrs 100 200  1500  200       0     0     0> // PageUp
+            , <&key_physical_attrs 100 100  1500  200       0     0     0> // PageUp
             // 3 row :               w   h    x    y     rot    rx    ry
             , <&key_physical_attrs 175 100    0   300       0     0     0> // CapsLock
             , <&key_physical_attrs 100 100  175   300       0     0     0> // q
@@ -127,7 +127,7 @@
             , <&key_physical_attrs 100 100  1075  300       0     0     0> // m
             , <&key_physical_attrs 100 100  1175  300       0     0     0> // ù
             , <&key_physical_attrs 100 100  1275  300       0     0     0> // *
-            , <&key_physical_attrs 125 100  1375  300       0     0     0> // Enter
+            , <&key_physical_attrs 125 -200  1375  300      0     0     0> // Enter
             , <&key_physical_attrs 100 100  1500  300       0     0     0> // PageDown
             // 4 row :               w   h    x    y     rot    rx    ry
             , <&key_physical_attrs 125 100    0   400       0     0     0> // Left Shift
